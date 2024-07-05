@@ -40,7 +40,7 @@ Este archivo HTML muestra un formulario con varios tipos de entradas, como texto
 ### Escritora Favorita:
 Este archivo HTML presenta una página web sobre la escritora Joana Marcús, incluyendo su biografía, imágenes, información sobre sus libros publicados y enlaces a fuentes externas. Utiliza un archivo CSS externo para el estilo y fuentes personalizadas de Google Fonts.
 
-![Escritora Favorita](imagenes/escritora.png)
+![Escritora Favorita](imagenes/escrito.png)
 
 
 ### Etiquetas:
