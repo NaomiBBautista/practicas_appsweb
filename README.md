@@ -7,6 +7,12 @@ Este archivo HTML demuestra el uso de Flexbox en CSS para la disposición de ele
 ![Acomodar Bloques](imagenes/acomodarbloques.png)
 
 
+### Cafebrería:
+Este archivo HTML crea una página web para una "Cafebrería", combinando una librería y una cafetería. Utiliza Bootstrap para el estilo y la estructura de la página, incluyendo un menú de navegación, un carrusel de imágenes, secciones de contenido con texto e imágenes, y tarjetas de libros recomendados. También incluye un modal que se activa con botones en el menú de navegación. La página está diseñada para ser responsiva y estéticamente agradable, integrando fuentes personalizadas y hojas de estilo CSS externas.
+
+![Cafebrería](imagenes/cafebreria.png)
+
+
 ### Cambiar Tamaño:
 Este archivo HTML ilustra el uso de media queries en CSS para cambiar dinámicamente el diseño y los estilos de la página en función del tamaño de la pantalla del navegador.
 
@@ -29,6 +35,12 @@ Este archivo HTML demuestra el uso de Bootstrap 5 para crear una página web con
 Este archivo HTML muestra un formulario con varios tipos de entradas, como texto, correo electrónico, número, opciones de radio, casillas de verificación, selecciones desplegables, y campos de fecha y hora, con estilos personalizados para botones de envío y efectos de hover.
 
 ![Cuestionarios](imagenes/cuestionarios.png)
+
+
+### Escritora Favorita:
+Este archivo HTML presenta una página web sobre la escritora Joana Marcús, incluyendo su biografía, imágenes, información sobre sus libros publicados y enlaces a fuentes externas. Utiliza un archivo CSS externo para el estilo y fuentes personalizadas de Google Fonts.
+
+![Escritora Favorita](imagenes/escritora.png)
 
 
 ### Etiquetas:
