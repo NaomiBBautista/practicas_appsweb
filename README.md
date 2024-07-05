@@ -65,3 +65,9 @@ Este archivo HTML demuestra el uso de transiciones CSS aplicadas a una galería 
 Este archivo HTML es una página web básica que incluye enlaces de navegación, encabezados, párrafos, texto estilizado y una imagen. Utiliza Bootstrap para el estilo y la disposición, con estilos en línea para personalizar colores y tamaños. Incluye enlaces a otras páginas web y un script de Bootstrap para funcionalidad adicional.
 
 ![Títulos](imagenes/titulos.png)
+
+
+### App Libros:
+Este archivo HTML crea una página web titulada "It's Book O'Clock". Incluye encabezados, imágenes (tanto desde internet como desde la computadora del usuario), listas ordenadas y desordenadas de libros y autores recomendados, y un enlace externo a un sitio web de libros recomendados. También conecta el archivo HTML con un archivo CSS externo para el estilo y utiliza fuentes personalizadas de Google Fonts.
+
+![App Libros](imagenes/applibros.png)
