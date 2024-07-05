@@ -1,0 +1,48 @@
+    body
+    {
+        background-color:rgb(249, 249, 249);
+        color: rgb(25, 25, 102);
+        font-size: 40px;
+        font-family: 'Annie Use Your Telescope', cursive;
+    }
+
+    h1
+    {
+        /*Familias Tipograficas*/
+        font-size: 80px;
+        font-family: 'Pacifico', cursive;
+        color:rgb(255, 0, 123);
+    }
+
+    h2, h3
+    {
+        font-size: 60px;
+        font-family: 'La Belle Aurore', cursive;
+        color:rgb(0, 166, 255);
+    }
+
+    h5
+    {
+        color: rgb(255, 0, 136);
+    }
+
+    p
+    {
+        color: rgb(255, 0, 136);
+    }
+
+    img
+    {
+        width: 750px; /*Ancho de la imagen*/
+        height: px; /*Altura de la imagen*/
+        border-radius: 10%; /*Agregar borde redondeado*/
+        border-color:rgb(25, 25, 102) ;
+        border-width: 10px;
+        border-style:dotted double;/*Cambiar estilo del marco*/
+    }
+   
+    div
+    {
+        /*Dar estilo a una parte*/
+        background-color: rgb(249, 249, 249);
+    }
